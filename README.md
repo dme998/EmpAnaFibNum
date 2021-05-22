@@ -1,6 +1,7 @@
 # Empirical Analysis on Fibonacci Numbers
-CMPSCI-3130-001-FA2020
-Instructor Dr. Wenjie He
+CMPSCI-3130-001-FA2020 <br> 
+Instructor: Dr. Wenjie He <br>
+Author: Daniel Eggers <br>
 
 ## Description
 In this project, we compare two algorithms for the Fibonacci Numbers to understand the power of an efficient algorithm. 
