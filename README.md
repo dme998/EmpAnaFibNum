@@ -2,6 +2,7 @@
 CMPSCI-3130-001-FA2020 <br> 
 Instructor: Dr. Wenjie He <br>
 Author: Daniel Eggers <br>
+Date: March 16, 2020
 
 ## Description
 In this project, we compare two algorithms for the Fibonacci Numbers to understand the power of an efficient algorithm. 
